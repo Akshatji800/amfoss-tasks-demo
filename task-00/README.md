@@ -1,2 +1,2 @@
 # Install Ubuntu 20.04[Desktop]
-This task was easy but not for me :disappointed_relieved: because i am having a very old laptop with 2 GB RAM and intel core i3 2nd generation processor and i was sure it will not be possible to use such a laptop in dual boot mode so i upgraded my laptop with 2 GB RAM,cleared the disk spaces and all.After then also there were many issues with windows operating system so finally i decided to switch fully on ubuntu and today i am a full time ubuntu user.:smile: I started this task by seeing a youtube video which i myself found very useful.This was the [video]().
+
